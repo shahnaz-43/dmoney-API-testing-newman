@@ -11,12 +11,12 @@
 
 ### Reports
 
-1. #### [Report 1](./collection/newmanreport1.png)
+1. #### ![Report 1](./collection/newmanreport1.png)
 
 
 
 
-2. #### [Report 2](./collection/newmanreport2.png)
+2. #### ![Report 2](./collection/newmanreport2.png)
 
 
 
